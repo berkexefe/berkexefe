@@ -1,0 +1,93 @@
+{
+  "version": "1.0.0",
+  "exportedAt": "2026-07-23T13:46:45.334Z",
+  "profile": {
+    "title": "Berke Efe Ekinci",
+    "subtitle": "A passionate developer from around the world",
+    "currentWork": "Online Eduction ",
+    "currentLearn": "c++,.Net Asp Core ,python,c#",
+    "collaborateOn": "",
+    "helpWith": "",
+    "ama": "",
+    "contact": "",
+    "funFact": "",
+    "visitorsBadge": false,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": false,
+    "githubStats": false,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": false,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": false,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "",
+    "blog": "",
+    "resume": ""
+  },
+  "social": {
+    "github": "berkexefe",
+    "dev": "",
+    "linkedin": "Berke Efe Ekinci",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "",
+    "instagram": "",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "",
+    "codechef": "",
+    "hackerrank": "",
+    "codeforces": "",
+    "leetcode": "",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "c",
+    "cplusplus",
+    "csharp",
+    "dotnet",
+    "mssql",
+    "mysql",
+    "python"
+  ]
+}
