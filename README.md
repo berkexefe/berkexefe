@@ -162,7 +162,7 @@
 
   <p>Feel free to connect or reach out for technical discussions, collaborations, or opportunities!</p>
 
-  <a href="https://linkedin.com/in/Berke Efe Ekinci" target="_blank">
+  <a href="www.linkedin.com/in/berkeefeekinci" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -170,7 +170,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:ekinciberkefe@gmail.com">
+  <a href="mailto:ekinciberkke@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
